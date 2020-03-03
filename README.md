@@ -1,3 +1,3 @@
-## Is there any correlation between the increase in the net migration rate and the average temperature change? 
+## Net Migration Rate x Temperature
 
 Please refer to the file README-Jupyter.ipynb for more information.
